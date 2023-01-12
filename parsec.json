@@ -1,0 +1,8 @@
+{
+    "version": "156.86h",
+    "description": "Remote desktop software",
+    "homepage": "https://parsec.app/",
+    "license": "Proprietary",
+    "url": "https://github.com/murder2142/parsec/blob/main/parsec-flat-windows.zip",
+    "extract_dir": "parsec-flat-windows"
+}
